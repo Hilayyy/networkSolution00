@@ -1,2 +1,2 @@
 # networkSolution00
-just a fun project hypothetically 
+just some fun projects hypothetically 
